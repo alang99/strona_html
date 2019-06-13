@@ -1,1 +1,1 @@
-# strona_html
+# Projekt na Technologie Informacyjne
